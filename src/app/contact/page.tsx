@@ -3,11 +3,6 @@
 import React, { useState } from 'react';
 import { FaEnvelope, FaPhoneAlt, FaWhatsapp, FaMapMarkerAlt, FaCheckCircle, FaExclamationCircle } from 'react-icons/fa';
 
-export const metadata = {
-  title: 'Contact Us - Saarathi Parenting Guidance',
-  description: 'Get in touch with our team for any queries, feedback, or support related to our parenting guidance services.',
-};
-
 export default function ContactPage() {
   const [formData, setFormData] = useState({
     name: '',
