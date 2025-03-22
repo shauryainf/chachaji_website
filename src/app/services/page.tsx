@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { FaAppleAlt, FaBrain, FaRunning, FaCalendarCheck, FaBook, FaChild, FaHeart } from 'react-icons/fa';
 

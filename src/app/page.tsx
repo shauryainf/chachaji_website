@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from 'next/link';
 import { FaAngleRight, FaVideo, FaBook, FaUsers, FaArrowRight } from 'react-icons/fa';
 
